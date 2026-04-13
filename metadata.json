@@ -1,0 +1,5 @@
+{
+  "name": "CrypticChat",
+  "description": "A secure, end-to-end encrypted chat application with no login required. Join rooms via 6-digit codes.",
+  "requestFramePermissions": []
+}
