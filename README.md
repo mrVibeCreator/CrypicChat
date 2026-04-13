@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/ec6deb8c-fbdd-48cb-aea1-33d84
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+# 🔒 CrypticChat - E2EE No-Login Chat
+
+Built with [VibeCreator] ⚡️ | [Buy Me A Coffee](https://buymeacoffee.com/vibecreator)
+
+This is an end-to-end encrypted chat application created entirely via Vibe Coding in Google AI Studio. 
+No logs, no tracking, just pure privacy.
